@@ -16,15 +16,15 @@ the amount of rainfall or snowfall within last three hours so customers can filt
 Finally, a *directions layer* Google map was created to show the directions between multiple cities for travel.
 
 ### Part 1: Weather Description and Amount of Precipitation for Each City 
-1. `Weather_Database.ipynb`
-2. `WeatherPy_challenge.csv`
+1. [`Weather_Database.ipynb`](https://github.com/plin2204/World_Weather_Analysis/blob/master/Weather_Database.ipynb)
+2. [`WeatherPy_challenge.csv`](https://github.com/plin2204/World_Weather_Analysis/blob/master/WeatherPy_challenge.csv)
 
 ### Part 2: Customers Narrow Travel Searches Per Temperature and Precipitation
-1. `Vacation_Search.ipynb`
-2. `WeatherPy_vacation_map.png`
+1. [`Vacation_Search.ipynb`](https://github.com/plin2204/World_Weather_Analysis/blob/master/Vacation_Search.ipynb)
+2. [`WeatherPy_vacation_map.png`](https://github.com/plin2204/World_Weather_Analysis/blob/master/WeatherPy_vacation_map.png)
 
 ### Part 3: A Travel Itinerary with a Corresponding Map 
-1. `Vacation_Itinerary.ipynb`
-2. `WeatherPy_vacation.csv`
-3. `WeatherPy_travel_map.PNG`
-4. `WeatherPy_travel_map_markers.PNG`
+1. [`Vacation_Itinerary.ipynb`](https://github.com/plin2204/World_Weather_Analysis/blob/master/Vacation_Itinerary.ipynb)
+2. [`WeatherPy_vacation.csv`](https://github.com/plin2204/World_Weather_Analysis/blob/master/WeatherPy_vacation.csv)
+3. [`WeatherPy_travel_map.PNG`](https://github.com/plin2204/World_Weather_Analysis/blob/master/WeatherPy_travel_map.PNG)
+4. [`WeatherPy_travel_map_markers.PNG`](https://github.com/plin2204/World_Weather_Analysis/blob/master/WeatherPy_travel_map_markers.PNG)
